@@ -1,4 +1,4 @@
-Webpage Link: http://resumetechnologies.s3-website.us-east-2.amazonaws.com/employees
+Webpage Link: http://resumetechnologies.s3-website.us-east-2.amazonaws.com
 Email: samuel.fernandez1271@gmail.com
 
 
